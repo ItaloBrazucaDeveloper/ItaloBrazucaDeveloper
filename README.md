@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Minhas ferramentas</h2>
+<h2 align="left">Ferramentas que uso</h2>
 
 ###
 
